@@ -38,7 +38,9 @@ body {
 .App-link {
   color: #61dafb;
 }
-
+h1{
+  margin-bottom: 50px;
+}
 .calbtn {
   display: flex;
 }
