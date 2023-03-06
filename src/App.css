@@ -27,6 +27,23 @@
 .App-link {
   color: #61dafb;
 }
+.components{
+  /* margin-top: 50px; */
+  margin: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.All-present, .present, .absent{
+  border: 1px solid black;
+}
+li{
+  list-style: decimal;
+  
+}
+span{
+  padding: 0 10px;
+}
 
 @keyframes App-logo-spin {
   from {
